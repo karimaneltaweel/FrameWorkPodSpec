@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
     s.source        = { :http => 'https://sdktest.advaeg.net/MyFramework.xcframework.zip' }
     
  
-	
     s.platform = :ios
+  source 'https://github.com/CocoaPods/Specs.git'
 
   s.dependency 'SwiftyJSON' ,'~> 5.0'
   s.dependency 'AMShimmer' ,'~> 1.0'
