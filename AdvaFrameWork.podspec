@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.homepage     = "http://your.homepage/here"
     s.license = { :type => 'BSD' }
     s.author             = { "Es" => "eslam.shaban@advaeg.com" }
-    s.source        = { :http => 'https://github.com/karimaneltaweel/FrameWorkPodSpec/blob/main/MyFramework.xcframework%201.zip' }
+    s.source        = { :http => 'https://sdktest.advaeg.net/MyFramework.xcframework.zip' }
     
  
 	
