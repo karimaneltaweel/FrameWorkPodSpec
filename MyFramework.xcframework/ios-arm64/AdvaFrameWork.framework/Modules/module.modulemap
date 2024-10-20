@@ -1,0 +1,11 @@
+framework module AdvaFrameWork {
+  umbrella header "AdvaFrameWork.h"
+  export *
+
+  module * { export * }
+}
+
+module AdvaFrameWork.Swift {
+  header "AdvaFrameWork-Swift.h"
+  requires objc
+}
